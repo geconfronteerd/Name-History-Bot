@@ -1,2 +1,2 @@
 # Name-History-Bot
-Checks name history on the known sites, NameMC Crafty.gg Laby.net
+Name-History-Bot is a Minecraft utility bot that lets you quickly check the name history of any Minecraft account. With a simple command, it pulls data from trusted sources like NameMC, Crafty.gg, and Laby.net, so you can see every past username a player has used. Perfect for tracking friends, verifying identities, or just satisfying curiosity about a player’s journey through name changes.
