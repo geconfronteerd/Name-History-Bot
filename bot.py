@@ -574,7 +574,7 @@ async def name_history(interaction: discord.Interaction, username: str):
         elif 'data' in crafty_data:
             crafty_text += f"\n**Source:** Web Scraping"
     else:
-        crafty_text = f"❌ **Error:** {crafty_data['message']}"')}`\n"
+        crafty_text = f"❌ **Error:** {crafty_data['message']}"
 
         # Display name history if available
         if 'name_history' in crafty_data and crafty_data['name_history']:
